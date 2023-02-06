@@ -39,10 +39,12 @@ int LED2_Output(uint8_t led_color)
 {
     P2->OUT = led_color;
 
-    if (led_color != 0)
+    if (led_color != 0) {
         return 1;
-    else
+    }
+    else {
         return 0;
+    }
 }
 
 int main(void) {
