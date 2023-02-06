@@ -3,4 +3,4 @@
 
 **Department of Electrical and Computer Engineering**
 
-## Lab 0 - GPIO Interface
+## Tutorial 2 - Blinking an LED on the MSP432 LaunchPad
